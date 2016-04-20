@@ -1,0 +1,28 @@
+name: Perpetual Pupil
+favicon: null
+layout_spectrum: 0.6894599536899477
+typography_spectrum: 0.9015747075900435
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4165650373324752
+  lightness: 0.9139365933369845
+  saturation: 0.1854292608331889
+  rhythmicContrast: 0.46067464840598404
+purpose: []
